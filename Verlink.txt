@@ -1,0 +1,6 @@
+1. [ Config ]
+  https://cdn.discordapp.com/attachments/1207072832543268955/1207072897114439790/config.zip?ex=65de513d&is=65cbdc3d&hm=46c00b016c6966d7f6952d4082c02764a89c301734514d415b48648242c47317&
+2. [ mode ]
+  https://cdn.discordapp.com/attachments/1207072832543268955/1207074078754869268/mods.zip?ex=65de5256&is=65cbdd56&hm=b8dca66b58e1f1b48eaa2c69265ddeb91b4085a37382ed03d22aaf28d3e4391d&
+3. [ optionsold ]
+  https://cdn.discordapp.com/attachments/1207072832543268955/1207074071670685796/optionsold.zip?ex=65de5255&is=65cbdd55&hm=72e18248175a250bb5e359c60f16974b8b4af717305bf9a191d3bae6dd6c12e9&
