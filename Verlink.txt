@@ -1,6 +1,6 @@
 1. [ Config ]
   https://cdn.discordapp.com/attachments/1207072832543268955/1208437627489882133/config_1.zip?ex=65e3483e&is=65d0d33e&hm=4f47a4b3598ce909b2dabb4aa9a1ca0c4035910da432b3273c6e0f770a6de9bd&
 2. [ mode ]
-  https://drive.google.com/file/d/13IoFwtR7lRoGkARSwqyI4vTKsWW4RKiR/view?usp=drive_link
+  https://cdn.discordapp.com/attachments/1207072832543268955/1212024351969386497/mods.zip?ex=65f054a3&is=65dddfa3&hm=243fa1ae1884d397d548891c7c541393f999a2ccdd5cdbe0d2012faedae56eed&
 3. [ optionsold ]
   https://cdn.discordapp.com/attachments/1207072832543268955/1207074071670685796/optionsold.zip?ex=65de5255&is=65cbdd55&hm=72e18248175a250bb5e359c60f16974b8b4af717305bf9a191d3bae6dd6c12e9&
